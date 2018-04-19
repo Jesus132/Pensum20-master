@@ -8,9 +8,9 @@
 
     <Button
         android:id="@+id/boton1"
-        android:layout_width="50dp"
-        android:layout_height="50dp"
-        android:background="@drawable/guardar"
+        android:layout_width="44dp"
+        android:layout_height="28dp"
+        android:background="@drawable/guardar1"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.97"
